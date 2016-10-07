@@ -1,0 +1,30 @@
+// Simplified Chinese lang variables contributed by cube316 (cube316@etang.com) 
+
+tinyMCELang['lang_table_desc'] = '²åÈëÐÂ±í¸ñ';
+tinyMCELang['lang_table_insert_row_before_desc'] = 'ÔÚÇ°Ãæ²åÈëÐÐ';
+tinyMCELang['lang_table_insert_row_after_desc'] = 'ÔÚºóÃæ²åÈëÐÐ';
+tinyMCELang['lang_table_delete_row_desc'] = 'É¾³ýÐÐ';
+tinyMCELang['lang_table_insert_col_before_desc'] = 'ÔÚÇ°Ãæ²åÈëÁÐ';
+tinyMCELang['lang_table_insert_col_after_desc'] = 'ÔÚºóÃæ²åÈëÁÐ';
+tinyMCELang['lang_table_delete_col_desc'] = 'É¾³ýÁÐ';
+tinyMCELang['lang_insert_table_title'] = '²åÈë/ÐÞ¸Ä ±í¸ñ';
+tinyMCELang['lang_insert_table_width'] = '¿í¶È';
+tinyMCELang['lang_insert_table_height'] = '¸ß¶È';
+tinyMCELang['lang_insert_table_cols'] = 'ÁÐÊý';
+tinyMCELang['lang_insert_table_rows'] = 'ÐÐÊý';
+tinyMCELang['lang_insert_table_cellspacing'] = '¼ä¾à';
+tinyMCELang['lang_insert_table_cellpadding'] = 'Ìî³ä';
+tinyMCELang['lang_insert_table_border'] = '±ß¿ò';
+tinyMCELang['lang_insert_table_align'] = '¶ÔÆë·½Ê½';
+tinyMCELang['lang_insert_table_align_default'] = 'Ä¬ÈÏ';
+tinyMCELang['lang_insert_table_align_left'] = '×ó¶ÔÆë';
+tinyMCELang['lang_insert_table_align_right'] = 'ÓÒ¶ÔÆë';
+tinyMCELang['lang_insert_table_align_middle'] = '¾ÓÖÐ¶ÔÆë';
+tinyMCELang['lang_insert_table_class'] = 'Àà';
+tinyMCELang['lang_table_row_title'] = '±í¸ñÐÐÊôÐÔ';
+tinyMCELang['lang_table_cell_title'] = 'µ¥Ôª¸ñÊôÐÔ';
+tinyMCELang['lang_table_row_desc'] = '±í¸ñÐÐÊôÐÔ';
+tinyMCELang['lang_table_cell_desc'] = 'µ¥Ôª¸ñÊôÐÔ';
+tinyMCELang['lang_insert_table_valign'] = '´¹Ö±¶ÔÆë';
+tinyMCELang['lang_insert_table_align_top'] = '¶¥¶Ë';
+tinyMCELang['lang_insert_table_align_bottom'] = 'µ×²¿';

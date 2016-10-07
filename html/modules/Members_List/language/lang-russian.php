@@ -1,0 +1,50 @@
+<?php
+
+/**************************************************************************/
+/* PHP-NUKE: Advanced Content Management System                           */
+/* ============================================                           */
+/*                                                                        */
+/* This is the language module with all the system messages               */
+/*                                                                        */
+/* If you made a translation, please go to the site and send to me        */
+/* the translated file. Please keep the original text order by modules,   */
+/* and just one message per line, also double check your translation!     */
+/*                                                                        */
+/* You need to change the second quoted phrase, not the capital one!      */
+/*                                                                        */
+/* If you need to use double quotes (") remember to add a backslash (\),  */
+/* so your entry will look like: This is \"double quoted\" text.          */
+/* And, if you use HTML code, please double check it.                     */
+/**************************************************************************/
+
+/**************************************************************************/
+/* Äîï. ïåðåâîä, ïðîâåðêà ñèíòàêñèñà/Add. Russian transl.& spell checking:*/
+/*         Àëåêñàíäð Áóð÷àê / Alexander Burchak, alexburchak@ua.fm        */
+/* Äàòà/Date:                                                             */
+/*         15.03.2004                                                     */
+/**************************************************************************/
+
+define("_URL","URL");
+define("_EMAIL","E-mail");
+define("_REALNAME","Íàñòîÿùåå Èìÿ");
+define("_FUNCTIONS","Ôóíêöèè");
+define("_PREVIOUS","Ïðåäûäóùàÿ ñòðàíèöà");
+define("_MEMBERSLIST","Ñïèñîê ÷ëåíîâ");
+define("_GREETINGS","Ïðèâåòñòâèÿ íàøåìó ïîñëåäíåìó çàðåãèñòðèðîâàâøåìóñÿ:");
+define("_SORTBY","Ñîðòèðîâàòü ïî:");
+define("_MNICKNAME","íèê");
+define("_MREALNAME","íàñòîÿùåå èìÿ");
+define("_MEMAIL","E-mail");
+define("_MURL","URL");
+define("_ONLINEREG","Ñåé÷àñ â îíëàéíå çàðåãèñòðèðîâàííûå ïîëüçîâàòåëè:");
+define("_WEHAVE","Ó íàñ");
+define("_MREGISTERED","çàðåãèñòðèðîâàííûõ ïîëüçîâàòåëÿ(ëåé). Ñåé÷àñ");
+define("_MREGONLINE","çàðåãèñòðèðîâàííûõ ïîëüçîâàòåëè â îíëàéíå.");
+define("_REGSOFAR","çàðåãèñòðèðîâàííûõ ïîëüçîâàòåëåé.");
+define("_USERSFOUND","íàéäåíî ïîëüçîâàòåëåé íà áóêâó");
+define("_USERSSHOWN","ïîëüçîâàòåëåé îòîáðàæåíî");
+define("_NOMEMBERS","íå íàéäåíî ÷ëåíîâ íà áóêâó");
+define("_PAGES","Ñòðàíèöû");
+define("_HOMEPAGE","Äîìàøíÿÿ ñòðàíèöà");
+
+?>
